@@ -4,3 +4,4 @@
 
 !/build.zig
 !/src/**/*.zig
+!/examples/**/*.zig
